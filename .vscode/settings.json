@@ -1,0 +1,13 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "python.defaultInterpreterPath": ".env\\Scripts\\python.exe"
+}
+
+// Git Bash
+// source c:/Users/DELL/Desktop/r-basic/.env/Scripts/activate
+
+// Command Prompt
+// c:/Users/DELL/Desktop/r-basic/.env/Scripts/activate.bat
+
+// PowerShell_pa_ambiente
+// & c:/Users/DELL/Desktop/r-basic/.env/Scripts/Activate.ps1
